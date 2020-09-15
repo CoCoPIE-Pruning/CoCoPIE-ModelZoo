@@ -1,0 +1,26 @@
+<============masking both weights and gradients for retrain
+<============all masking statistics
+<============testing sparsity before retrain
+<===sparsity type is block_prune_filter
+<===layers to be pruned are [0.8, 0.8]
+sparsity at layer wh.0.weight is 0.9532251602564102
+sparsity at layer wh.1.weight is 0.9527854919433594
+sparsity at layer uh.0.weight is 0.951873779296875
+sparsity at layer uh.1.weight is 0.9368934631347656
+sparsity at layer wz.0.weight is 0.9550530849358975
+sparsity at layer wz.1.weight is 0.9525413513183594
+sparsity at layer uz.0.weight is 0.9528541564941406
+sparsity at layer uz.1.weight is 0.9517364501953125
+sparsity at layer wr.0.weight is 0.9544771634615384
+sparsity at layer wr.1.weight is 0.9530477523803711
+sparsity at layer ur.0.weight is 0.9525060653686523
+sparsity at layer ur.1.weight is 0.952946662902832
+overal compression rate is 20.34242219128747
+
+Decoding TIMIT_test output out_dnn2
+%WER 19.5 | 192 7215 | 83.5 12.8 3.7 3.0 19.5 98.4 | -1.119 | /home/dongpe/RNN/temp0/pytorch-kaldi/exp/TIMIT_GRU_mfcc/decode_TIMIT_test_out_dnn2/score_4/ctm_39phn.filt.sys
+
+
+-----
+Generating output files and plots ...
+OK
