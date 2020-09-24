@@ -9,7 +9,7 @@ By incorporating our proposed GPU-CPU collaborative scheme, the inference speed 
 ![Image of YOLObile](figure/yolobilemap.png)
 
 ## Test our model
-
+We release 8x and 14x pruning model in this repository and provide testing instructions.
 ### Environment Requirements:
 
 Ubuntu 18.04
