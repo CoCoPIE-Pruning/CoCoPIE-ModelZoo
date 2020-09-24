@@ -8,7 +8,7 @@ By incorporating our proposed GPU-CPU collaborative scheme, the inference speed 
 
 ![Image of YOLObile](figure/yolobilemap.png)
 
-##Test our model
+## Test our model
 
 ### Environment Requirements:
 
