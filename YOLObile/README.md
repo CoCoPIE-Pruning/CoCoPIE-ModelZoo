@@ -1,4 +1,6 @@
-# YOLObile
+# YOLObile 
+arXiv: [https://arxiv.org/abs/2009.05697](https://arxiv.org/abs/2009.05697)
+
 ## Introduction
 The rapid development and wide utilization of object detection techniques have aroused attention on both accuracy and speed of object detectors. However, the current state-of-the-art object detection works are either accuracy-oriented using a large model but leading to high latency
 or speed-oriented using a lightweight model but sacrificing accuracy. In this work, we propose YOLObile framework, a real-time object detection on mobile devices via compression-compilation co-design. A novel block-punched pruning scheme is proposed for any kernel size. To improve computational efficiency on mobile devices, a GPU-CPU collaborative  scheme is adopted along with advanced compiler-assisted optimizations. Experimental results indicate that our pruning scheme achieves 14x compression rate of YOLOv4 with 49.0 mAP. 
