@@ -7,3 +7,9 @@ Put the model and yaml file in the corresponding directory of first order model 
 
 # Openpose
 Support 368*368 resolution.
+
+# YOLObile
+
+arXiv paper: [https://arxiv.org/abs/2009.05697](https://arxiv.org/abs/2009.05697)
+
+Release YOLObile model checkpoints and provide testing instructions.
